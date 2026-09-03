@@ -3,7 +3,7 @@ name: Node.js CI Pipeline
 on:
   push:
     branches:
-      - Exp3
+      - SCRUM-5-as-a-user-i-want-to-login
 
 jobs:
   build:
